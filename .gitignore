@@ -1,2 +1,6 @@
 #files
 hsts
+results/
+log/
+.DS_Store
+.vscode
